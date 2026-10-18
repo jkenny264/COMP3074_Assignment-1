@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">COMP3074_Assignment-1</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_deleteme">deleteme</string>
 </resources>
